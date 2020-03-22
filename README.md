@@ -1,2 +1,2 @@
 # mestint_alk_torony
-Mesterséges Intelligencia Alkalmazások kurzus első feladat implementálása.
+Mesterséges Intelligencia Alkalmazások kurzus első feladat implementáció.
